@@ -1,8 +1,8 @@
 apiVersion: appsody.dev/v1beta1
 kind: AppsodyApplication
 metadata:
-  name: my-spring-app
-  namespace: my-spring-project
+  name: my-springboot-app
+  namespace: my-springboot-project
 spec:
   # Add fields here
   version: 1.0.0
